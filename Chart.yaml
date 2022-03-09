@@ -22,5 +22,6 @@ keywords:
 - nifi
 - data
 - process
-
+name: nifi
+version: 0.7.5
 
