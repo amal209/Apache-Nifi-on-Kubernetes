@@ -22,15 +22,5 @@ keywords:
 - nifi
 - data
 - process
-maintainers:
-- email: sebastien.dupont@cetic.be
-  name: banzo
-  url: https://github.com/banzo
-- email: amen.ayadi@cetic.be
-  name: AyadiAmen
-  url: https://github.com/AyadiAmen
-- email: alexandre.nuttinck@cetic.be
-  name: alexnuttinck
-  url: https://github.com/alexnuttinck
-name: nifi
-version: 0.7.5
+
+
